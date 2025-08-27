@@ -206,7 +206,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive.gif](https://github.com/SandeepMuthoju/Business_Insights_360.io/blob/main/RESOURCES/Executive%20View.gif)
 
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/SandeepMuthoju/Business_Insights_360.io/tree/main/RESOURCES)
 
 
 ## Project Outcome
